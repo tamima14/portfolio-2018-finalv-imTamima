@@ -1,0 +1,10 @@
+.social {
+  width: auto;
+  background-color: darkslategray;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 10px;
+  font-size: 25px;
+  list-style: none;
+}
